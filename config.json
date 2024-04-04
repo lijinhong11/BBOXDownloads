@@ -247,6 +247,16 @@
       }
     },
     {
+      "name": "FarmersDance",
+      "gamemode": false,
+      "github": "BentoBoxWorld/FarmersDance",
+      "ci": "BentoBoxWorld/FarmersDance",
+      "description": "**FarmersDance** allows 'dance' around any growable plant to make it growing faster.\n\nCreated and maintained by [BONNe](https://github.com/BONNe).",
+      "versions": {
+        "1.19": "1.0.0"
+      }
+    },
+    {
       "name": "Greenhouses",
       "gamemode": false,
       "github": "BentoBoxWorld/Greenhouses",
